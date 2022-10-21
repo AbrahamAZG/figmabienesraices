@@ -96,6 +96,14 @@
     gap: 15px;
     align-items: center;
 }
+.banner3{
+    padding-bottom: 50px;
+}
+.cajaunobanner3{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
 .cajabanner3{
     width: 60%;
     display: flex;
