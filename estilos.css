@@ -18,6 +18,7 @@
     gap:20px;
     justify-content: center;
     align-items: center;
+    
 
 }
 .listanavegacion li{
@@ -26,6 +27,8 @@
     color: var(--color);
     line-height: 28px;
     font-family: Helvetica, sans-serif;
+    cursor: pointer;
+    
 }
 .banner1{
     background-image: url(./img/banner.png);
